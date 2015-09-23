@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\pre-dexed\debug\classes-dffec542a8cdd3044a9363235effcb221b7fc262.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\pre-dexed\debug\classes-5a65486765f1c62f15b28d6505ad6e34f36ff30e.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\exploded-aar\com.mikepenz\iconics\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5293d036c23b7a5046f86ee04932a12f76830e2">
+        <dex dex="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\pre-dexed\debug\classes-e8b22c071920528198764ef5e924f8bcc068deee.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\pre-dexed\debug\gson-2.3.1-0bb2b2823454cc5ef4e8de3e319e0c54f6e504e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="22886d910315028a2b34b1ba068c265534ade87a">
+        <dex dex="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\pre-dexed\debug\classes-c55d55461af30491cfca5d1ef7c217c005fdbb86.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\exploded-aar\com.mikepenz\aboutlibraries\5.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c90817fe6219acce19c3188bdfcfd95fdc72258e">
+        <dex dex="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\pre-dexed\debug\classes-f3f6fb84c1d5a1ba83aed586fda5d6ae843dcef8.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-recyclerview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c187f5fc4f47d1abb8839d124591502ece9b7a37">
+        <dex dex="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\pre-dexed\debug\classes-3ca4075fe766ad8169db328797cc47da41ffa474.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-f6fba3b26b85d31fd0e652f696d0199694b21f7c.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\pre-dexed\debug\okio-1.4.0-29b7e1633fb6d6baa97190fa7a730df80fefdc98.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\exploded-aar\com.amulyakhare\com.amulyakhare.textdrawable\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\pre-dexed\debug\classes-cc702cfd0669920d37c36a96690018597120b082.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\exploded-aar\com.mikepenz\materialdrawer\3.0.5\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9037a42007919cb39d28fca3566533ecce11293c">
+        <dex dex="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\pre-dexed\debug\classes-15c36024dcfc8b7866092a00ee17b2c1ce258502.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\exploded-aar\com.mikepenz\octicons-typeface\2.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="839cdc3454f408471ca32a81b301624d9211ebd4">
+        <dex dex="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\pre-dexed\debug\classes-c3bb89c9c0253906aec5c340578a4f4c3dc9d259.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-core\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8190861e323934dad89d5e6b830ea66878c11970">
+        <dex dex="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\pre-dexed\debug\classes-f49bcbe66c6ba3521c4410d9f10c16712192b087.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.15\9093a362d18c5f81f58e49d86dece57d9b6e1cb7\library-1.0.15.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9093a362d18c5f81f58e49d86dece57d9b6e1cb7">
+        <dex dex="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\pre-dexed\debug\library-1.0.15-1abf2bc04b03787f842b436d0ee2b61d8ac3edb3.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0-ec72fea25b3bddd64e4b75db1307b0d507d94a73.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\pre-dexed\debug\classes-4d57d23ebb36d4ce2ecc483ec48e47fc6aa8a822.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\exploded-aar\com.github.gabrielemariotti.cards\cardslib-cards\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9ec1d846000db2b979dac2159584f027195a8174">
+        <dex dex="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\pre-dexed\debug\classes-aba1730c25b61e64ffae661c17d50a4df2367351.jar" />
+    </item>
+    <item
+        jar="C:\Users\harsh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\harsh\AndroidStudioProjects\ClearConceptsPrivateTuitions\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-8231ccfede2dd10e7c10af0dc4e715f2fb28cc70.jar" />
+    </item>
+
+</items>
